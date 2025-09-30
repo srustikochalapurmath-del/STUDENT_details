@@ -13,7 +13,7 @@ class Student:
         print(f"Major: {self.major}")
 
 def get_student_input():
-    name = input("Enter student's name: ")
+    name = input("Enter your student's name: ")
     roll_number = input("Enter student's roll number: ")
     grade = input("Enter student's grade: ")
     major = input("Enter student's major: ")
