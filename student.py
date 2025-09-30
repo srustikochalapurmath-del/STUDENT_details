@@ -25,4 +25,4 @@ if __name__ == "__main__":
 
     # You can create more student objects as needed
     # student2 = get_student_input()
-    # student2.display_details()
+    # student2.display_details()cd
