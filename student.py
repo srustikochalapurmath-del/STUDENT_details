@@ -11,7 +11,7 @@ class Student:
         print(f"Roll Number: {self.roll_number}")
         print(f"Grade: {self.grade}")
         print(f"Major: {self.major}")
-
+        print("hello world")
 def get_student_input():
     name = input("Enter your student's name: ")
     roll_number = input("Enter student's roll number: ")
